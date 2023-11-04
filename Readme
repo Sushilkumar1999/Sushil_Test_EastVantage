@@ -1,0 +1,12 @@
+Set Up steps:
+
+1. Install any IDE.
+2. Install Python
+3. Install Robot Framework
+     pip install robotframework
+4. Install SeleniumLibrary,StringLibrary
+     pip install robotframework-seleniumlibrary
+     pip install robotframework-StringLibrary
+5. Please update the file path accordingly( ${file_path} variable used in test suite)
+5. Run the file with below cmd.
+     robot Project_Submission.robot
