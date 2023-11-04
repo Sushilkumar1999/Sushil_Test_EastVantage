@@ -8,5 +8,5 @@ Set Up steps:
      pip install robotframework-seleniumlibrary
      pip install robotframework-StringLibrary
 5. Please update the file path accordingly( ${file_path} variable used in test suite)
-5. Run the file with below cmd.
+6. Run the file with below cmd.
      robot Project_Submission.robot
